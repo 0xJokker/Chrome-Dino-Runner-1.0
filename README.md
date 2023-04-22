@@ -1,16 +1,20 @@
-## Description
+## Chrome Dino Runner
 
-Chrome Dino Runner creado con el Lenguaje de Programación Python 
+Este es el Juego de Chrome Dino Runner, escrito con el Lenguaje de Pogramacion Python y la biblioteca de Pygame.
+
+Es el Juego con las funcionalidades como el original.
+
 
 
 ## Autor
-** Eduard Sepulveda **
-** Joker.Co **
+
+Joker.Co (Eduard Sepulveda)
+
+[GitHub] (https://github.com/JokerC0)
 
 
-[ https://jokerco.webflow.io/ ]
-[IG] [ https://instagram.com/jokerco.digital?igshid=ZDdkNTZiNTM= ]
+## License
 
+MIT © Eduard Sepulveda
+** Todos los Derechos Protegidos por Joker.Co © **
 
-## Licencia 
-** Todos los Derechos Protegidos por Joker.Co **
