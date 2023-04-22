@@ -9,7 +9,7 @@ Technical documentation of this project is available at url:   https://github.co
 ### Environment
 
 ```
-python=3.8 is used
+pYTHON
 ```
 
 ### Requirements
