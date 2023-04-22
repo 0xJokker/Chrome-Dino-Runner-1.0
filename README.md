@@ -16,5 +16,5 @@ Joker.Co (Eduard Sepulveda)
 ## License
 
 MIT © Eduard Sepulveda
-** Todos los Derechos Protegidos por Joker.Co © **
+** Derechos reservados**
 
